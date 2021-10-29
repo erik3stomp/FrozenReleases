@@ -1,1 +1,1 @@
-Release repo for private desktop app
+Release repo for Frozen
